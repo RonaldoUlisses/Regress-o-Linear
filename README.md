@@ -1,4 +1,4 @@
-Regress-o-Linear
+Regressão Linear
 Modelo básico de regressão linear com Machine learning
 
 O dataset que temos aqui é composto de informações de imóveis nos EUA, modelos de imóveis de diferentes áreas,
